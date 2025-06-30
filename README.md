@@ -36,6 +36,14 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   &nbsp;
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  </a>
+  &nbsp;
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  </a>
+  &nbsp;
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   </a>
