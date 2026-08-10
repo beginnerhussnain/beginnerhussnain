@@ -146,7 +146,5 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/langs?username=beginnerhussnain&theme=radical" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://streak-stats.demolab.com?user=beginnerhussnain&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=beginnerhussnain&theme=radical&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
 </p>
