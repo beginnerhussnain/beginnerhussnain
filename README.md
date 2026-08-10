@@ -146,6 +146,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beginnerhussnain&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=beginnerhussnain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beginnerhussnain&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api?username=beginnerhussnain&show_icons=true&locale=en&theme=radical&cache_seconds=86400&include_all_commits=true" alt="GitHub Stats" />
 </p>
