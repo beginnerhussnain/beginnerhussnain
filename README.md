@@ -146,5 +146,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=beginnerhussnain&theme=radical&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=beginnerhussnain&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github-stats-extended.vercel.app/api?username=beginnerhussnain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
