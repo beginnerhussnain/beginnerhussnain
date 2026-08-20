@@ -10,7 +10,9 @@
 
 ### About Me
 
-- 🌱 I’m currently learning **Large Language Models (LLMs)**, diving deep into the exciting world of AI.
+-  Focused on **Machine Learning, Deep Learning, Computer Vision, and Large Language Models (LLMs)**  apparently one field wasn't enough. 
+-  Worked with **YOLO, custom model training, object detection, and ByteTrack**  because tracking things manually is overrated. 
+-  Currently working with **RAG, agentic AI pipelines, n8n, and locally deployed LLMs**  just connecting things and hoping for the best.
 
 ---
 
