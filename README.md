@@ -146,14 +146,6 @@
 
 ---
 
-### GitHub Trophies 🏆
-
-<p align="center">
-  <img src="./profile/trophy.svg" alt="GitHub Trophies">
-</p>
-
-
----
 
 ### Contribution Snake 🐍
 
