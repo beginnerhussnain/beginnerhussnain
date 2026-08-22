@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ali Hussnain</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Hussnain" alt="Typing SVG" />
+</p>
 <h3 align="center">A passionate developer based in 1% compute-optimized LLMs, 99% thoughts and prayers.</h3>
                                                                   
 
@@ -150,4 +152,15 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=beginnerhussnain&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://github-stats-extended.vercel.app/api?username=beginnerhussnain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+
+---
+
+---
+
+### Contribution Snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beginnerhussnain/beginnerhussnain/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
