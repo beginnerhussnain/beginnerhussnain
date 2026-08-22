@@ -155,17 +155,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=beginnerhussnain&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://github-stats-extended.vercel.app/api?username=beginnerhussnain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-
----
-
 ### Contribution Snake 🐍
 
 <p align="center">
