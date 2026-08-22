@@ -146,6 +146,15 @@
 
 ---
 
+### GitHub Trophies 🏆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beginnerhussnain&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+
+---
+
 ### GitHub Stats
 
 <p align="center">
@@ -154,8 +163,6 @@
   <img src="https://github-stats-extended.vercel.app/api?username=beginnerhussnain&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-
----
 
 ---
 
