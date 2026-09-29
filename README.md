@@ -21,20 +21,10 @@
 ### Connect with Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/ali-hussnain-b02564277" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="https://x.com/AliHussnain89" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/ali-hussnain-b02564277)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/AliHussnain89)
+
 </div>
 
 ---
